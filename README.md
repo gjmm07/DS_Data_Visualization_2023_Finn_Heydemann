@@ -5,7 +5,7 @@ Degree: Master Digital Science
 Name: Finn Heydemann
 Lecturer: Prof. Dr. Konrad Förstner 
 
-![plot](./home/finn/Dokumente/DigitalScienceMaster/Data Visualization/PräsiFinal/boxplot_all.png)
+![plot](./images/boxplot_all.png)
 
 
 
